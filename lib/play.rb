@@ -42,3 +42,5 @@ puts turn
 counter+=1
 end
 end
+
+play
