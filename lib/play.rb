@@ -36,9 +36,7 @@ def turn(board)
 end
 
 def play(board)
-counter = 1
-while counter <=9
-puts turn
-counter+=1
+9.times do
+  
 end
 end
